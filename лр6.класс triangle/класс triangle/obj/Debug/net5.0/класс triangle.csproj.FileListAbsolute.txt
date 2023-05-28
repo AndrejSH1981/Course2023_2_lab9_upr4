@@ -1,0 +1,16 @@
+D:\занятия\2 курс\Программирование_C#\Labs\Lab06\класс triangle\класс triangle\bin\Debug\net5.0\класс triangle.exe
+D:\занятия\2 курс\Программирование_C#\Labs\Lab06\класс triangle\класс triangle\bin\Debug\net5.0\класс triangle.deps.json
+D:\занятия\2 курс\Программирование_C#\Labs\Lab06\класс triangle\класс triangle\bin\Debug\net5.0\класс triangle.runtimeconfig.json
+D:\занятия\2 курс\Программирование_C#\Labs\Lab06\класс triangle\класс triangle\bin\Debug\net5.0\класс triangle.runtimeconfig.dev.json
+D:\занятия\2 курс\Программирование_C#\Labs\Lab06\класс triangle\класс triangle\bin\Debug\net5.0\класс triangle.dll
+D:\занятия\2 курс\Программирование_C#\Labs\Lab06\класс triangle\класс triangle\bin\Debug\net5.0\ref\класс triangle.dll
+D:\занятия\2 курс\Программирование_C#\Labs\Lab06\класс triangle\класс triangle\bin\Debug\net5.0\класс triangle.pdb
+D:\занятия\2 курс\Программирование_C#\Labs\Lab06\класс triangle\класс triangle\obj\Debug\net5.0\класс triangle.csproj.AssemblyReference.cache
+D:\занятия\2 курс\Программирование_C#\Labs\Lab06\класс triangle\класс triangle\obj\Debug\net5.0\класс triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\занятия\2 курс\Программирование_C#\Labs\Lab06\класс triangle\класс triangle\obj\Debug\net5.0\класс triangle.AssemblyInfoInputs.cache
+D:\занятия\2 курс\Программирование_C#\Labs\Lab06\класс triangle\класс triangle\obj\Debug\net5.0\класс triangle.AssemblyInfo.cs
+D:\занятия\2 курс\Программирование_C#\Labs\Lab06\класс triangle\класс triangle\obj\Debug\net5.0\класс triangle.csproj.CoreCompileInputs.cache
+D:\занятия\2 курс\Программирование_C#\Labs\Lab06\класс triangle\класс triangle\obj\Debug\net5.0\класс triangle.dll
+D:\занятия\2 курс\Программирование_C#\Labs\Lab06\класс triangle\класс triangle\obj\Debug\net5.0\ref\класс triangle.dll
+D:\занятия\2 курс\Программирование_C#\Labs\Lab06\класс triangle\класс triangle\obj\Debug\net5.0\класс triangle.pdb
+D:\занятия\2 курс\Программирование_C#\Labs\Lab06\класс triangle\класс triangle\obj\Debug\net5.0\класс triangle.genruntimeconfig.cache
