@@ -1,0 +1,7 @@
+D:\занятия\2 курс\Программирование_C#\Labs\Lab06\STARTER\лр5_3\лр5_3\bin\Debug\лр5_3.exe.config
+D:\занятия\2 курс\Программирование_C#\Labs\Lab06\STARTER\лр5_3\лр5_3\bin\Debug\лр5_3.exe
+D:\занятия\2 курс\Программирование_C#\Labs\Lab06\STARTER\лр5_3\лр5_3\bin\Debug\лр5_3.pdb
+D:\занятия\2 курс\Программирование_C#\Labs\Lab06\STARTER\лр5_3\лр5_3\obj\Debug\лр5_3.csproj.AssemblyReference.cache
+D:\занятия\2 курс\Программирование_C#\Labs\Lab06\STARTER\лр5_3\лр5_3\obj\Debug\лр5_3.csproj.CoreCompileInputs.cache
+D:\занятия\2 курс\Программирование_C#\Labs\Lab06\STARTER\лр5_3\лр5_3\obj\Debug\лр5_3.exe
+D:\занятия\2 курс\Программирование_C#\Labs\Lab06\STARTER\лр5_3\лр5_3\obj\Debug\лр5_3.pdb
