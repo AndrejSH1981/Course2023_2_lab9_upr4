@@ -1,0 +1,16 @@
+D:\занятия\2 курс\Программирование_C#\Labs\Lab07\для лр 7\для лр 7\bin\Debug\net5.0\для лр 7.exe
+D:\занятия\2 курс\Программирование_C#\Labs\Lab07\для лр 7\для лр 7\bin\Debug\net5.0\для лр 7.deps.json
+D:\занятия\2 курс\Программирование_C#\Labs\Lab07\для лр 7\для лр 7\bin\Debug\net5.0\для лр 7.runtimeconfig.json
+D:\занятия\2 курс\Программирование_C#\Labs\Lab07\для лр 7\для лр 7\bin\Debug\net5.0\для лр 7.runtimeconfig.dev.json
+D:\занятия\2 курс\Программирование_C#\Labs\Lab07\для лр 7\для лр 7\bin\Debug\net5.0\для лр 7.dll
+D:\занятия\2 курс\Программирование_C#\Labs\Lab07\для лр 7\для лр 7\bin\Debug\net5.0\ref\для лр 7.dll
+D:\занятия\2 курс\Программирование_C#\Labs\Lab07\для лр 7\для лр 7\bin\Debug\net5.0\для лр 7.pdb
+D:\занятия\2 курс\Программирование_C#\Labs\Lab07\для лр 7\для лр 7\obj\Debug\net5.0\для лр 7.csproj.AssemblyReference.cache
+D:\занятия\2 курс\Программирование_C#\Labs\Lab07\для лр 7\для лр 7\obj\Debug\net5.0\для лр 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\занятия\2 курс\Программирование_C#\Labs\Lab07\для лр 7\для лр 7\obj\Debug\net5.0\для лр 7.AssemblyInfoInputs.cache
+D:\занятия\2 курс\Программирование_C#\Labs\Lab07\для лр 7\для лр 7\obj\Debug\net5.0\для лр 7.AssemblyInfo.cs
+D:\занятия\2 курс\Программирование_C#\Labs\Lab07\для лр 7\для лр 7\obj\Debug\net5.0\для лр 7.csproj.CoreCompileInputs.cache
+D:\занятия\2 курс\Программирование_C#\Labs\Lab07\для лр 7\для лр 7\obj\Debug\net5.0\для лр 7.dll
+D:\занятия\2 курс\Программирование_C#\Labs\Lab07\для лр 7\для лр 7\obj\Debug\net5.0\ref\для лр 7.dll
+D:\занятия\2 курс\Программирование_C#\Labs\Lab07\для лр 7\для лр 7\obj\Debug\net5.0\для лр 7.pdb
+D:\занятия\2 курс\Программирование_C#\Labs\Lab07\для лр 7\для лр 7\obj\Debug\net5.0\для лр 7.genruntimeconfig.cache
