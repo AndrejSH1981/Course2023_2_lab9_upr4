@@ -1,0 +1,16 @@
+D:\занятия\2 курс\Программирование_C#\Labs\Алгоритм\Алгоритм\bin\Debug\net5.0\Алгоритм.exe
+D:\занятия\2 курс\Программирование_C#\Labs\Алгоритм\Алгоритм\bin\Debug\net5.0\Алгоритм.deps.json
+D:\занятия\2 курс\Программирование_C#\Labs\Алгоритм\Алгоритм\bin\Debug\net5.0\Алгоритм.runtimeconfig.json
+D:\занятия\2 курс\Программирование_C#\Labs\Алгоритм\Алгоритм\bin\Debug\net5.0\Алгоритм.runtimeconfig.dev.json
+D:\занятия\2 курс\Программирование_C#\Labs\Алгоритм\Алгоритм\bin\Debug\net5.0\Алгоритм.dll
+D:\занятия\2 курс\Программирование_C#\Labs\Алгоритм\Алгоритм\bin\Debug\net5.0\ref\Алгоритм.dll
+D:\занятия\2 курс\Программирование_C#\Labs\Алгоритм\Алгоритм\bin\Debug\net5.0\Алгоритм.pdb
+D:\занятия\2 курс\Программирование_C#\Labs\Алгоритм\Алгоритм\obj\Debug\net5.0\Алгоритм.csproj.AssemblyReference.cache
+D:\занятия\2 курс\Программирование_C#\Labs\Алгоритм\Алгоритм\obj\Debug\net5.0\Алгоритм.GeneratedMSBuildEditorConfig.editorconfig
+D:\занятия\2 курс\Программирование_C#\Labs\Алгоритм\Алгоритм\obj\Debug\net5.0\Алгоритм.AssemblyInfoInputs.cache
+D:\занятия\2 курс\Программирование_C#\Labs\Алгоритм\Алгоритм\obj\Debug\net5.0\Алгоритм.AssemblyInfo.cs
+D:\занятия\2 курс\Программирование_C#\Labs\Алгоритм\Алгоритм\obj\Debug\net5.0\Алгоритм.csproj.CoreCompileInputs.cache
+D:\занятия\2 курс\Программирование_C#\Labs\Алгоритм\Алгоритм\obj\Debug\net5.0\Алгоритм.dll
+D:\занятия\2 курс\Программирование_C#\Labs\Алгоритм\Алгоритм\obj\Debug\net5.0\ref\Алгоритм.dll
+D:\занятия\2 курс\Программирование_C#\Labs\Алгоритм\Алгоритм\obj\Debug\net5.0\Алгоритм.pdb
+D:\занятия\2 курс\Программирование_C#\Labs\Алгоритм\Алгоритм\obj\Debug\net5.0\Алгоритм.genruntimeconfig.cache
