@@ -1,0 +1,16 @@
+D:\занятия\2 курс\Программирование_C#\Labs\Lab02\Distans_f\Distans_f\bin\Debug\net5.0\Distans_f.exe
+D:\занятия\2 курс\Программирование_C#\Labs\Lab02\Distans_f\Distans_f\bin\Debug\net5.0\Distans_f.deps.json
+D:\занятия\2 курс\Программирование_C#\Labs\Lab02\Distans_f\Distans_f\bin\Debug\net5.0\Distans_f.runtimeconfig.json
+D:\занятия\2 курс\Программирование_C#\Labs\Lab02\Distans_f\Distans_f\bin\Debug\net5.0\Distans_f.runtimeconfig.dev.json
+D:\занятия\2 курс\Программирование_C#\Labs\Lab02\Distans_f\Distans_f\bin\Debug\net5.0\Distans_f.dll
+D:\занятия\2 курс\Программирование_C#\Labs\Lab02\Distans_f\Distans_f\bin\Debug\net5.0\ref\Distans_f.dll
+D:\занятия\2 курс\Программирование_C#\Labs\Lab02\Distans_f\Distans_f\bin\Debug\net5.0\Distans_f.pdb
+D:\занятия\2 курс\Программирование_C#\Labs\Lab02\Distans_f\Distans_f\obj\Debug\net5.0\Distans_f.csproj.AssemblyReference.cache
+D:\занятия\2 курс\Программирование_C#\Labs\Lab02\Distans_f\Distans_f\obj\Debug\net5.0\Distans_f.GeneratedMSBuildEditorConfig.editorconfig
+D:\занятия\2 курс\Программирование_C#\Labs\Lab02\Distans_f\Distans_f\obj\Debug\net5.0\Distans_f.AssemblyInfoInputs.cache
+D:\занятия\2 курс\Программирование_C#\Labs\Lab02\Distans_f\Distans_f\obj\Debug\net5.0\Distans_f.AssemblyInfo.cs
+D:\занятия\2 курс\Программирование_C#\Labs\Lab02\Distans_f\Distans_f\obj\Debug\net5.0\Distans_f.csproj.CoreCompileInputs.cache
+D:\занятия\2 курс\Программирование_C#\Labs\Lab02\Distans_f\Distans_f\obj\Debug\net5.0\Distans_f.dll
+D:\занятия\2 курс\Программирование_C#\Labs\Lab02\Distans_f\Distans_f\obj\Debug\net5.0\ref\Distans_f.dll
+D:\занятия\2 курс\Программирование_C#\Labs\Lab02\Distans_f\Distans_f\obj\Debug\net5.0\Distans_f.pdb
+D:\занятия\2 курс\Программирование_C#\Labs\Lab02\Distans_f\Distans_f\obj\Debug\net5.0\Distans_f.genruntimeconfig.cache
